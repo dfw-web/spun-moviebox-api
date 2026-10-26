@@ -26,5 +26,5 @@ NIGERIA_IP = "197.211.52.65"
 # then paste the returned id below.
 [[kv_namespaces]]
 binding = "MOVIEBOX_SESSION_KV"
-id = id = "f275c2d8373d44859968d020a3d6b77f"
+id = "f275c2d8373d44859968d020a3d6b77f"
 
